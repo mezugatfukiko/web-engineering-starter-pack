@@ -1,0 +1,53 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .sender-column {
+    text-align: right;
+    font-style: italic;
+    line-height: 1.5;
+  }
+
+  #date {
+    text-align: right;
+  }
+
+  .receiver-column {
+    font-style: italic;
+    line-height: 1.5;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+  }
+
+  .paragraph {
+    line-height: 1.5;
+  }
+  
+  .dotted {
+    text-decoration:underline dotted 1px;
+  }
+
+  .blu {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  .indent {
+    display: block;
+    margin-left: 40px;
+  }
+
+  p,ul,ol,dl,address {
+    font-size: 1.1em;
+  }
+  
+  p, li, dd, dt, address {
+    line-height: 1.5;
+  }
